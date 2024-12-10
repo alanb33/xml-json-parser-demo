@@ -17,6 +17,10 @@
     <price>$8.95</price>
     <description>Light Belgian waffles covered with an assortment of fresh berries and whipped cream</description>
     <calories>900</calories>
+    <flavors>
+      <flavor>Strawberry</flavor>
+      <flavor>Cherry</flavor>
+    </flavors>
   </food>
   <food>
     <name>French Toast</name>
